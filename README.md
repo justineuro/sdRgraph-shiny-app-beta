@@ -6,7 +6,7 @@
 
 (You may have to change some of the graphing parameters in the written function (see `app.R`), as the need arises, to get better quality plots; please see [`sdRplot`](https://github.com/justineuro/sdRplot), a separate GitHub repository that contains this `R` function and [`sdRgraph`](https://github.com/justineuro/sdRgraph), an `R` package for this function.)
 
-This shiny app is hosted on [Posit Connect Cloud](https://connect.posit.cloud/) at: [URL](https://connect.posit.cloud/juro/content/0197d30e-597e-9d51-9fe2-97777081acb6).
+This shiny app is hosted in the [Posit Connect Cloud](https://connect.posit.cloud/) at: [URL](https://connect.posit.cloud/juro/content/0197d30e-597e-9d51-9fe2-97777081acb6).
 
 #### Acknowledgements: 
 Many thanks to:
